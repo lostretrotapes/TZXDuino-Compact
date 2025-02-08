@@ -1,0 +1,19 @@
+TZXDuino Compact v1.00 Component List	
+	
+C1,C2		22pf
+C3		10uf
+C4,C5		100nf
+C6		10nf
+D2		LED 3.0mm
+DS1		128x64 I2C OLED Display Module (Example: eBay-162473794373)
+IC1		ATMEGA328P-P
+J1		USB-MINI-B-SMD
+P1		Pin_Header_Straight_1x02_Pitch 2.54mm
+X1		XTAL/RES 16MHz
+R1		330R
+S1,S2,S3,S4,S5	Tac Switch
+MOD1		Catalex_Micro-SD_Module (Example: eBay-262460777856)
+J2		3.5-AUDIO-JACK
+D1		1N4001
+1x		6-way Dupont style socket
+1x		4-way Dupont style socket

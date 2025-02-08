@@ -1,0 +1,275 @@
+Cmp-Mod V01 Created by PcbNew   date = 02/05/2017 14:11:09
+
+BeginCmp
+TimeStamp = 589B08E4
+Path = /58823C4A
+Reference = IC1;
+ValeurCmp = ATMEGA328P-P;
+IdModule  = G0TDJ:DIP-28_W7.62mm_Socket_LongPads_ZIF;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B7413B
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0888
+Path = /5883BE07
+Reference = C1;
+ValeurCmp = 100u;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B088E
+Path = /5883BBD7
+Reference = C2;
+ValeurCmp = 100u;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0894
+Path = /58838AA3
+Reference = C3;
+ValeurCmp = 22pf;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B089A
+Path = /58838BF3
+Reference = C4;
+ValeurCmp = 22pf;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08A0
+Path = /5883B7A6
+Reference = C5;
+ValeurCmp = 10u;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08A6
+Path = /588241AF
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08AC
+Path = /58823DC5
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08B2
+Path = /58824B8E
+Reference = C8;
+ValeurCmp = 10n;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08B8
+Path = /588248BC
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08BE
+Path = /5883A5A9
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08C4
+Path = /5883A6C5
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B08EA
+Path = /5883ECC7
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0902
+Path = /58836E4D
+Reference = P2;
+ValeurCmp = CONN_10X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B090C
+Path = /58825457
+Reference = P3;
+ValeurCmp = CONN_6;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B091C
+Path = /5883ADD2
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0922
+Path = /5883AC0B
+Reference = R2;
+ValeurCmp = 330r;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0928
+Path = /5882492A
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0930
+Path = /5883E42A
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_THT:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0937
+Path = /5883BAB9
+Reference = U1;
+ValeurCmp = LM7805;
+IdModule  = G0TDJ:to220-vert-78XX;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B093E
+Path = /58838830
+Reference = X1;
+ValeurCmp = XTAL/RES 16MHz;
+IdModule  = G0TDJ:XTAL-RES_HC49-4H_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0B4B
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0BD0
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B0D26
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = Mounting_Holes:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A05DE4
+Path = 
+Reference = G***;
+ValeurCmp = KiCad Logo;
+IdModule  = G0TDJ:KiCad-Logo_Copper_11mmx5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A0620D
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:OSHW_Logo_6.4mm_F.CU;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A0656B
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:OSHW_Logo_6.4mm_F.MASK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A068D2
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:minDUINO_16_F.Cu;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A06BEB
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:minDUINO_16_F.Mask;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A06F02
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:minDUINO_worm_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A072E1
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:projectavr_logo_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 58A07354
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = G0TDJ:projectavr_logo_SILK;
+EndCmp
+
+BeginCmp
+TimeStamp = 589B4CCF
+Path = /58844769
+Reference = P4;
+ValeurCmp = CONN_3X2;
+IdModule  = G0TDJ:2X3-Header_Bare_Straight_SPF;
+EndCmp
+
+EndListe
